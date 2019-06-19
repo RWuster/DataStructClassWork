@@ -5,6 +5,7 @@
       3. Iterate over each word, if the word is a numeric value then print its value doubled, otherwise print out the word, with each output on its own line.
     
  */
+
 #include <iostream>
 #include <string>
 #include <sstream>
@@ -31,23 +32,6 @@ int main()
     return 0;
 }
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  /*Sample output: 
 Sentence: Hello RWuster, are you 18.5 years old?
 
